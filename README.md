@@ -125,5 +125,9 @@ Creative AI in computer vision
 This project showcases real-world implementation of deep learning concepts suitable for AI internships and portfolio presentation.
 
 ### Output:
-[Output.txt](https://github.com/user-attachments/files/25255420/Output.txt)
+
 ![Image](https://github.com/user-attachments/assets/5dd90ab8-c87c-4646-8e33-9d275fbe9ed2)
+
+[Output.txt](https://github.com/user-attachments/files/25255420/Output.txt)
+
+
